@@ -4,13 +4,13 @@ export const translations = {
     hero: {
       kicker: "cultural ecosystem",
       title: "Creating journeys with meaning.",
-      description: "Nomad Lab is a cultural ecosystem connecting travel, research, and educational formats inspired by Kazakhstan.",
+      description: "Nomad Code is a public cultural ecosystem connecting travel, research, education, and innovation inspired by Kazakhstan.",
       primaryCta: "Explore ecosystem",
       secondaryCta: "Read our approach",
       imageAlt: "Person walking through Kazakhstan steppe at sunrise",
     },
     about: {
-      kicker: "01 · Nomad Lab",
+      kicker: "01 · Nomad Code",
       title: "A modern cultural travel journal.",
       body: "We build projects at the intersection of travel, education, field research, and cultural storytelling. The road is not a backdrop for us; it is a method of attention, exchange, and learning.",
     },
@@ -19,14 +19,14 @@ export const translations = {
       title: "Three directions. One cultural system.",
       items: [
         { name: "Steppe Stories", mood: "Poetic documentary", text: "Stories of people, memory, craft, oral history, and the emotional texture of place." },
-        { name: "Steppe Code", mood: "Research in motion", text: "Research routes, educational formats, and contemporary tools for exploring culture and place." },
+        { name: "Steppe Lab", mood: "Research in motion", text: "An education, innovation, and research direction for exploring culture, place, mobility, and contemporary learning." },
         { name: "Steppe Experience", mood: "Immersive expeditions", text: "Field journeys shaped by atmosphere, movement, landscape, and direct encounter." },
       ],
     },
     journal: {
       kicker: "03 · Field journal",
       title: "Landscape, hospitality, motion.",
-      body: "From mountain passes to family tables, Nomad Lab follows the details that turn travel into cultural understanding.",
+      body: "From mountain passes to family tables, Nomad Code follows the details that turn travel, research, and learning into cultural understanding.",
     },
     contact: {
       kicker: "04 · Contact",
@@ -40,13 +40,13 @@ export const translations = {
     hero: {
       kicker: "культурная экосистема",
       title: "Создаем путешествия со смыслом",
-      description: "Nomad Lab — культурная экосистема, объединяющая путешествия, исследования и образовательные форматы, вдохновлённые Казахстаном.",
+      description: "Nomad Code — публичная культурная экосистема, объединяющая путешествия, исследования, образование и инновационные форматы, вдохновлённые Казахстаном.",
       primaryCta: "Смотреть экосистему",
       secondaryCta: "О нашем подходе",
       imageAlt: "Человек идёт через казахстанскую степь на рассвете",
     },
     about: {
-      kicker: "01 · Nomad Lab",
+      kicker: "01 · Nomad Code",
       title: "Современный культурный журнал-путешествие.",
       body: "Мы создаём проекты на пересечении путешествий, образования, полевых исследований и культурного сторителлинга. Дорога для нас — не фон, а метод внимания, обмена и обучения.",
     },
@@ -55,14 +55,14 @@ export const translations = {
       title: "Три направления. Одна культурная система.",
       items: [
         { name: "Steppe Stories", mood: "Поэтичная документалистика", text: "Истории людей, памяти, ремесла, устной культуры и эмоциональной ткани места." },
-        { name: "Steppe Code", mood: "Исследование в движении", text: "Исследовательские маршруты, образовательные форматы и современные инструменты изучения культуры и пространства." },
+        { name: "Steppe Lab", mood: "Исследование в движении", text: "Образовательное, инновационное и исследовательское направление для изучения культуры, пространства, мобильности и современных форматов обучения." },
         { name: "Steppe Experience", mood: "Иммерсивные экспедиции", text: "Полевые маршруты, построенные на атмосфере, движении, ландшафте и прямом опыте." },
       ],
     },
     journal: {
       kicker: "03 · Полевой журнал",
       title: "Ландшафт, гостеприимство, движение.",
-      body: "От горных перевалов до семейных столов Nomad Lab замечает детали, которые превращают путешествие в культурное понимание.",
+      body: "От горных перевалов до семейных столов Nomad Code замечает детали, которые превращают путешествие, исследование и обучение в культурное понимание.",
     },
     contact: {
       kicker: "04 · Контакты",
@@ -76,13 +76,13 @@ export const translations = {
     hero: {
       kicker: "мәдени экожүйе",
       title: "Мағынасы бар сапарлар жасаймыз.",
-      description: "Nomad Lab — Қазақстаннан шабыт алған саяхат, зерттеу және білім беру форматтарын біріктіретін мәдени экожүйе.",
+      description: "Nomad Code — Қазақстаннан шабыт алған саяхат, зерттеу, білім беру және инновациялық форматтарды біріктіретін ашық мәдени экожүйе.",
       primaryCta: "Экожүйені көру",
       secondaryCta: "Тәсіліміз туралы",
       imageAlt: "Таңғы уақытта Қазақстан даласымен келе жатқан адам",
     },
     about: {
-      kicker: "01 · Nomad Lab",
+      kicker: "01 · Nomad Code",
       title: "Қазіргі мәдени сапар журналы.",
       body: "Біз саяхат, білім беру, далалық зерттеу және мәдени сторителлинг түйіскен жерде жобалар жасаймыз. Жол біз үшін фон емес, зейін, алмасу және үйрену тәсілі.",
     },
@@ -91,14 +91,14 @@ export const translations = {
       title: "Үш бағыт. Бір мәдени жүйе.",
       items: [
         { name: "Steppe Stories", mood: "Поэтикалық деректі әңгіме", text: "Адамдар, жады, қолөнер, ауызша тарих және мекеннің эмоциялық қабаты туралы хикаялар." },
-        { name: "Steppe Code", mood: "Қозғалыстағы зерттеу", text: "Мәдениет пен кеңістікті зерттеуге арналған зерттеу бағыттары, білім беру форматтары және заманауи құралдар." },
+        { name: "Steppe Lab", mood: "Қозғалыстағы зерттеу", text: "Мәдениет, кеңістік, мобильділік және заманауи оқу форматтарын зерттеуге арналған білім беру, инновация және зерттеу бағыты." },
         { name: "Steppe Experience", mood: "Иммерсивті экспедициялар", text: "Атмосфера, қозғалыс, ландшафт және тікелей тәжірибеге құрылған далалық сапарлар." },
       ],
     },
     journal: {
       kicker: "03 · Далалық журнал",
       title: "Ландшафт, қонақжайлық, қозғалыс.",
-      body: "Тау асуларынан отбасы дастарханына дейін Nomad Lab саяхатты мәдени түсінікке айналдыратын ұсақ бөлшектерді бақылайды.",
+      body: "Тау асуларынан отбасы дастарханына дейін Nomad Code саяхат, зерттеу және оқуды мәдени түсінікке айналдыратын ұсақ бөлшектерді бақылайды.",
     },
     contact: {
       kicker: "04 · Байланыс",

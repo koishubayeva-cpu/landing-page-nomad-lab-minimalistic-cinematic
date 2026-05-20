@@ -1,6 +1,6 @@
-﻿# Nomad Lab Landing Page
+# Nomad Code Landing Page
 
-A multilingual React + Tailwind CSS landing page for Nomad Lab.
+A multilingual React + Tailwind CSS landing page for Nomad Code.
 
 ## Stack
 

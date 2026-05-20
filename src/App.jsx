@@ -1,4 +1,4 @@
-﻿import { useEffect, useRef, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { ArrowRight, MessageCircle, Send } from "lucide-react";
 import { useI18n } from "./i18n/I18nContext";
 import { languages } from "./i18n/translations";
@@ -57,7 +57,7 @@ export default function App() {
         <nav className="mx-auto flex max-w-7xl items-center justify-between">
           <div className="flex items-center gap-3 text-ink">
             <LogoMark />
-            <span className="font-display text-2xl tracking-[0.18em]">NOMAD LAB</span>
+            <span className="font-display text-2xl tracking-[0.18em]">NOMAD CODE</span>
           </div>
           <div className="flex items-center gap-5">
             <div className="hidden gap-8 text-sm text-ink/60 md:flex">
@@ -135,7 +135,7 @@ export default function App() {
             <Reveal delay={620}>
               <article className="overflow-hidden rounded-[1.75rem] bg-[#243036] text-white shadow-editorial">
               <div className="relative h-64 overflow-hidden">
-                <img src="/images/steppe-code-topographic.png" alt="Steppe Code" className="h-full w-full object-cover" />
+                <img src="/images/steppe-code-topographic.png" alt="Steppe Lab" className="h-full w-full object-cover" />
                 <div className="absolute inset-0 bg-[linear-gradient(180deg,rgba(17,24,29,0.12),rgba(17,24,29,0.78))]" />
               </div>
               <div className="p-6">
